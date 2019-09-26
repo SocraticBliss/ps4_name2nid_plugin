@@ -2,7 +2,7 @@
 
 SocraticBliss (R)
 
-An IDA Plugin to help create new NIDs to add to your PS4 NID library
+ps4_name2nid.py: IDA plugin to help create new NIDs to extend aerolib.csv
 
 # Installation Instructions
 0) Install the latest https://github.com/SocraticBliss/ps4_module_loader

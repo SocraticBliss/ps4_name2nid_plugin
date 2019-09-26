@@ -5,6 +5,7 @@ SocraticBliss (R)
 An IDA Plugin to help create new NIDs to add to your PS4 NID library
 
 # Installation Instructions
+0) Install the latest https://github.com/SocraticBliss/ps4_module_loader
 1) Place the **ps4_name2nid.py** and **needed_nids.txt** files in your IDA's **plugins** directory
 2) Open the needed_nids.txt file in Notepad and insert one PS4 NID per row that you are looking for
 

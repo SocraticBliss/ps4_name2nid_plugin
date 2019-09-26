@@ -7,6 +7,13 @@ An IDA Plugin to help create new NIDs to add to your PS4 NID library
 # Installation Instructions
 1) Place the ps4_name2nid.py and needed_nids.txt files in your IDA's plugins directory
 2) Open the needed_nids.txt file in Notepad and add one NID per row that you are looking for (one NID per line)
+
+Example needed_nids.txt
+```
+rFCJnwsHUYA
+L9bnN8gtIRA
+KC23EegtMiY
+```
 3) Load a PS4 Module file (.prx, .sprx, .elf, .self)
 4) Select a name/string that you want to turn into a NID so that it becomes highlighted
 5) Press the hotkey Ctrl+N and it will turn it into a NID

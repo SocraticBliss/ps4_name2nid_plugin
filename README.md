@@ -17,8 +17,7 @@ KC23EegtMiY
 3) Load a PS4 Module file (.prx, .sprx, .elf, .self)
 4) Select a name/string that you want to turn into a NID so that it becomes highlighted
 5) Press the hotkey Ctrl+N and it will turn it into a NID
-6) ???
-7) Profit
+6) If the NID is in your needed_nids.txt, it will automatically append the NID and name to your aerolib.csv
 
 If you have any suggestions or ideas, please feel free to create pull requests!
 
